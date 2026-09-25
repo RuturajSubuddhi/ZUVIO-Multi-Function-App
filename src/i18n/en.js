@@ -1,0 +1,18 @@
+export default {
+  home: "Home", services: "Services", search: "Search", categories: "Categories",
+  cat_home: "Home & Household", cat_edu: "Education", cat_repair: "Repairs & Maintenance",
+  provider: "Provider", book: "Book Service", date: "Date", time: "Time", address: "Address",
+  confirm: "Confirm Booking", confirmed: "Booking Confirmed", mybookings: "My Bookings",
+  profile: "Profile", login: "Login", cont: "Continue", viewprofile: "View Profile",
+  explore: "Explore", available: "Available", verified: "Verified", rating: "Rating",
+  reviews: "Reviews", price: "Price", location: "Location", back: "Back", next: "Next",
+  cancel: "Cancel", submit: "Submit", tagline: "One App. Every Service.",
+  subtitle: "Trusted local services, right at your doorstep.",
+  searchph: "Search electrician, maid, tutor...", find: "Find Services",
+  popular: "Popular Services", howitworks: "How ZUVIO Works", why: "Why ZUVIO",
+  builtfor: "Built for Odisha. Made for everyday life.",
+  builtsub: "From Bhubaneswar to cities across Odisha, ZUVIO connects people with trusted local service professionals.",
+  notifications: "Notifications", support: "Help & Support", bookid: "Booking ID",
+  details: "View Details", reschedule: "Reschedule", contact: "Contact Provider",
+  cancelbooking: "Cancel Booking", filters: "Filters", bookNow: "Book Now",
+}

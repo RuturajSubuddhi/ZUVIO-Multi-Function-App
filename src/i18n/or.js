@@ -1,0 +1,18 @@
+export default {
+  home: "ମୂଳପୃଷ୍ଠା", services: "ସେବାସମୂହ", search: "ଖୋଜନ୍ତୁ", categories: "ବିଭାଗ",
+  cat_home: "ଘରୋଇ ଓ ଗୃହ ସେବା", cat_edu: "ଶିକ୍ଷା", cat_repair: "ମରାମତି ଓ ରକ୍ଷଣାବେକ୍ଷଣ",
+  provider: "ପ୍ରଦାନକାରୀ", book: "ସେବା ବୁକ୍ କରନ୍ତୁ", date: "ତାରିଖ", time: "ସମୟ", address: "ଠିକଣା",
+  confirm: "ବୁକିଂ ନିଶ୍ଚିତ କରନ୍ତୁ", confirmed: "ବୁକିଂ ନିଶ୍ଚିତ ହେଲା", mybookings: "ମୋ ବୁକିଂ",
+  profile: "ପ୍ରୋଫାଇଲ", login: "ଲଗଇନ", cont: "ଆଗକୁ ବଢ଼ନ୍ତୁ", viewprofile: "ପ୍ରୋଫାଇଲ ଦେଖନ୍ତୁ",
+  explore: "ଅନୁସନ୍ଧାନ", available: "ଉପଲବ୍ଧ", verified: "ଯାଞ୍ଚିତ", rating: "ରେଟିଂ",
+  reviews: "ସମୀକ୍ଷା", price: "ମୂଲ୍ୟ", location: "ଅବସ୍ଥାନ", back: "ପଛକୁ", next: "ପରବର୍ତ୍ତୀ",
+  cancel: "ବାତିଲ", submit: "ଦାଖଲ କରନ୍ତୁ", tagline: "ଏକ ଆପ୍। ପ୍ରତ୍ୟେକ ସେବା।",
+  subtitle: "ବିଶ୍ୱସ୍ତ ସ୍ଥାନୀୟ ସେବା, ଆପଣଙ୍କ ଦ୍ୱାରଠାରେ।",
+  searchph: "ଇଲେକ୍ଟ୍ରିସିଆନ୍, ମେଡ୍, ଟ୍ୟୁଟର୍ ଖୋଜନ୍ତୁ...", find: "ସେବା ଖୋଜନ୍ତୁ",
+  popular: "ଲୋକପ୍ରିୟ ସେବା", howitworks: "ZUVIO କିପରି କାମ କରେ", why: "କାହିଁକି ZUVIO",
+  builtfor: "ଓଡ଼ିଶା ପାଇଁ ତିଆରି। ଦୈନନ୍ଦିନ ଜୀବନ ପାଇଁ ବନାଯାଇଛି।",
+  builtsub: "ଭୁବନେଶ୍ୱରଠାରୁ ଓଡ଼ିଶାର ସହରଗୁଡ଼ିକ ପର୍ଯ୍ୟନ୍ତ, ZUVIO ଲୋକଙ୍କୁ ବିଶ୍ୱସ୍ତ ସ୍ଥାନୀୟ ସେବା ପେସାଦାରଙ୍କ ସହିତ ଯୋଡ଼ିଥାଏ।",
+  notifications: "ବିଜ୍ଞପ୍ତି", support: "ସହାୟତା", bookid: "ବୁକିଂ ଆଇଡି",
+  details: "ବିସ୍ତୃତ ଦେଖନ୍ତୁ", reschedule: "ପୁନଃନିର୍ଧାରଣ", contact: "ପ୍ରଦାନକାରୀଙ୍କୁ ଯୋଗାଯୋଗ",
+  cancelbooking: "ବୁକିଂ ବାତିଲ", filters: "ଫିଲ୍ଟର", bookNow: "ବୁକ୍ କରନ୍ତୁ",
+}
